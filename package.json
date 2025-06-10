@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rab008.github.io/rizedigitalsite/",
   "name": "rizedigital",
   "version": "1.0.0",
   "private": true,
@@ -13,7 +14,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -36,5 +39,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Rize Digital - Professional Digital Marketing and Web Development Services"
+  "description": "Rize Digital - Professional Digital Marketing and Web Development Services",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
