@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rizedigitalsite/static/css/main.a40ed55b.css",
-    "main.js": "/rizedigitalsite/static/js/main.35a06169.js",
+    "main.js": "/rizedigitalsite/static/js/main.0cf2a91d.js",
     "static/js/453.36590119.chunk.js": "/rizedigitalsite/static/js/453.36590119.chunk.js",
     "index.html": "/rizedigitalsite/index.html",
     "main.a40ed55b.css.map": "/rizedigitalsite/static/css/main.a40ed55b.css.map",
-    "main.35a06169.js.map": "/rizedigitalsite/static/js/main.35a06169.js.map",
+    "main.0cf2a91d.js.map": "/rizedigitalsite/static/js/main.0cf2a91d.js.map",
     "453.36590119.chunk.js.map": "/rizedigitalsite/static/js/453.36590119.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a40ed55b.css",
-    "static/js/main.35a06169.js"
+    "static/js/main.0cf2a91d.js"
   ]
 }
